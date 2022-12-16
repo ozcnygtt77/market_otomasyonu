@@ -1,0 +1,3 @@
+çikolata: iyi
+gofret: çok iyi
+dondurma: kötü
